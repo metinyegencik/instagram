@@ -3,4 +3,4 @@
 
 ## Kodluyoruz tarafından verilen ödev çalışması
 
-![İnstagram]()
+![İnstagram](/instagram.jpeg)
