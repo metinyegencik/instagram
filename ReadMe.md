@@ -1,5 +1,5 @@
 
 # İnstagram
 
-## ** Kodluyoruz tarafından verilen ödev çalışması
+## Kodluyoruz tarafından verilen ödev çalışması
 
