@@ -1,5 +1,4 @@
 
 # İnstagram Clone
 
-## Kodluyoruz tarafından verilen ödev çalışması
-
+## Projeyi buradan görebilirsiniz: https://metinyegencik.github.io/instagram/
